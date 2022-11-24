@@ -1,5 +1,6 @@
 import "./App.css";
-import { useEffect, useState } from "react" ;
+import {  useState } from "react" ;
+import { useEffect } from "react";
 const sampleBlogs = [
   {
     createdAt: "2022-06-30T04:03:07.069Z",
